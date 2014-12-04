@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <integer-array name="pictures_array">
+        <item>0x7f020001</item>
+        <item>0x7f020002</item>
+        <item>0x7f020003</item>
+    </integer-array>
+</resources>
